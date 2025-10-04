@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\rohit\OneDrive\Desktop\cowRFID\myenv"
+VIRTUAL_ENV="C:\Users\rohit\OneDrive\Desktop\afrg\RSS_COWRFID_BACKEND\myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
